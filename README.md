@@ -1,4 +1,4 @@
-# AIMA3e-Java 
+# AI Search Algorithms
 
 ### Index of Implemented Algorithms
 
